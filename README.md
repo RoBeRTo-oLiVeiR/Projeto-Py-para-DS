@@ -23,11 +23,15 @@ Durante o projeto, foram aplicadas transformações importantes nos dados:
 ## 📊 Prints e Visualizações
 
 ### Notebook no Google Colab
-![image](https://github.com/user-attachments/assets/ad886798-98c1-442d-a5eb-4add164e4a3f)
+![image](https://github.com/user-attachments/assets/e836aa97-6e5e-4832-bee5-121dd81847d2)
+![image](https://github.com/user-attachments/assets/1004d7ff-ada7-48d2-b21f-11f1e913d5db)
+
+
 
 
 ### Dashboard no Power BI
-<img src="prints/dashboard_exemplo.png" width="700">
+![image](https://github.com/user-attachments/assets/475abcfb-4453-4a2b-b70b-2af7abbe3e21)
+
 
 > As imagens acima estão na pasta `/prints` do repositório.
 
