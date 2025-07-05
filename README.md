@@ -23,7 +23,8 @@ Durante o projeto, foram aplicadas transformações importantes nos dados:
 ## 📊 Prints e Visualizações
 
 ### Notebook no Google Colab
-<img src="prints/notebook_exemplo.png" width="700">
+![image](https://github.com/user-attachments/assets/ad886798-98c1-442d-a5eb-4add164e4a3f)
+
 
 ### Dashboard no Power BI
 <img src="prints/dashboard_exemplo.png" width="700">
